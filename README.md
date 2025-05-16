@@ -1,5 +1,4 @@
-# Baxto-chatbot-ink-
-# Baxto Chatbot para WhatsApp
+# Baxto-bot23 para WhatsApp
 
 Este proyecto es un bot inteligente para WhatsApp, creado con **Baileys** y **OpenAI**, diseñado para responder cotizaciones de tatuajes y brindar atención personalizada con un tono natural y humano.
 
